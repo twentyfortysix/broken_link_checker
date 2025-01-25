@@ -21,6 +21,8 @@ pip install -r requirements.txt
 
 source env/bin/activate
 
+update url in the spider 
+
 scrapy crawl linkchecker
 
 open the output.csv in spreadshet and do the manual job
